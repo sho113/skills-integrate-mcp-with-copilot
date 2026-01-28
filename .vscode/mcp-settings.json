@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mergington-high-school": {
+      "command": "python3",
+      "args": [
+        "/workspaces/skills-integrate-mcp-with-copilot/src/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
