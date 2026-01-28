@@ -42,6 +42,12 @@ activities = {
         "schedule": "Wednesdays and Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 15,
         "participants": ["ava@mergington.edu", "isabella@mergington.edu"]
+    },
+    "GitHub Skills": {
+        "description": "Learn practical coding and collaboration skills with GitHub - part of the GitHub Certifications program",
+        "schedule": "Mondays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": []
     }
 }
 
